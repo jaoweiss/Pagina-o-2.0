@@ -1,0 +1,19 @@
+.caixa1{
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    display: inline-block;
+    border: 1px solid;
+    padding: 10px;
+    cursor: pointer;
+
+}
+li:hover{
+    background-color: rgb(121, 121, 121);
+}
+
+ *{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
